@@ -22,5 +22,5 @@ Target: full granular coverage of Rules 1–35 incl. 6-A, 29-A, omitted 32 + the
 | R3 | Rules 12–16 (9/10 done — R3.5 image pending, cap hit) | ✅ (R3.5 regenerates first next turn) |
 | R4 | Rule 14 (11)–(23) completed + Rule 17 + Rule 18 + numbers (R3.5 also regenerated) | ✅ DONE |
 | R5 | Rules 19–22 (special procedure; lent/borrowed officers; no-appeal bar) | ✅ DONE |
-| R6 | Rules 30–35 + Schedule + omitted-32 note | queued |
-| R7 | catch-ups + key-numbers consolidation + finale → re-issue COVERAGE-CERTIFICATE + final sequential PDF | queued |
+| R6 | Rules 23–29-A (appealable orders; appellate authority; 45 days; form; consideration; implementation; revision; review) | ✅ DONE |
+| R7 | Rules 30–35 + Schedule (+ omitted Rule 32 note) | NEXT — fetch Rule_30…Rule_35 + Schedule page |
