@@ -25,7 +25,7 @@ and un-pushed commits do NOT survive turn ends. Therefore every turn:
 | Conduct regen R-C2 | C2.1–C2.8 regenerated to spec, audited, pushed | ✅ DONE |
 | Conduct regen R-C3 | C3.1–C3.10 regenerated to spec, audited, pushed | ✅ DONE |
 | Conduct regen R-C4 | Regenerate C4.1–C4.10 → then Conduct PDF v2 | queued after CCA (user priority) |
-| CCA regen R1–R8 | Rules 1–35 + Schedule per manifest (user priority: CCA first) | R1–R6 ✅ (59 comics, Rules 1–29-A) — R7 (Rules 30–35 + Schedule) NEXT |
+| CCA regen R1–R8 | Rules 1–35 + Schedule per manifest (user priority: CCA first) | R1–R7 ✅ (69 comics — ALL RULES 1–35 + Schedule covered) — R8 finale + FINAL PDF NEXT |
 
 Each regen turn: generate ≤10 comics → optimize → audit → commit → **push**.
 
