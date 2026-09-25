@@ -1,5 +1,7 @@
 # COVERAGE CERTIFICATE — CCS (Conduct) Rules, 1964 Comic Series
 
+**Status: REGENERATION COMPLETE — 48/48 comics exist as PNGs; PDF v2 (51 pp, complete edition) compiled and committed 25.09.2026. Supersedes interim v1.**
+
 **Series 2 of the service-rules comic mastery programme.**
 Issued: 25.09.2026 · Comics designed: **48** · Batches: **5** · Rule-text coverage: **100% — 0 pending items**
 
