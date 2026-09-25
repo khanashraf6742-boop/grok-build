@@ -18,8 +18,8 @@ Target: full granular coverage of Rules 1–35 incl. 6-A, 29-A, omitted 32 + the
 | Batch | Coverage | Status |
 |---|---|---|
 | R1 | Rules 1–7 incl. 6-A (10 comics, regen-batch-01-rules-1-7/) | ✅ DONE |
-| R2 | Rules 8–12 (suspension, deemed suspension, subsistence, Rule 10, penalties-Rule 11, procedure-Rule 12) | NEXT — fetch Rule_08…Rule_12 |
-| R3 | Rules 13–17 (procedure continued: documents, oral inquiry, presenting/defence, report) | queued |
+| R2 | Rules 8–11 incl. full Rule 10 suspension + Rule 11 penalties (regen-batch-02-rules-8-12/) | ✅ DONE |
+| R3 | Rule 12 (disciplinary authorities — verified) + Rules 13–16 (procedure) | NEXT — fetch Rule_12…Rule_16 texts |
 | R4 | Rules 18–22 (including time limits, 2024 revision) | queued |
 | R5 | Rules 23–29-A (appeals 45 days, implementation, revision 6 months, 29-A) | queued |
 | R6 | Rules 30–35 + Schedule + omitted-32 note | queued |
