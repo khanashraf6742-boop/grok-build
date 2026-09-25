@@ -22,8 +22,8 @@ and un-pushed commits do NOT survive turn ends. Therefore every turn:
 |---|---|---|
 | Conduct C-1…C-5 | Rule coverage COMPLETE (48 comics designed, map 100%) | ✅ text/specs complete |
 | Conduct regen R-C1 | C1.1–C1.10 regenerated to spec, audited, pushed | ✅ DONE |
-| Conduct regen R-C2 | Regenerate C2.1–C2.8 | NEXT |
-| Conduct regen R-C3 | Regenerate C3.1–C3.10 | queued |
+| Conduct regen R-C2 | C2.1–C2.8 regenerated to spec, audited, pushed | ✅ DONE |
+| Conduct regen R-C3 | Regenerate C3.1–C3.10 | NEXT |
 | Conduct regen R-C4 | Regenerate C4.1–C4.10 | queued |
 | CCA regen R1–R7 | 62 comics per `../ccs-cca-rules/REGENERATION-MANIFEST.md` | queued after Conduct regen |
 
