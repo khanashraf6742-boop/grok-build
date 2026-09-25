@@ -20,7 +20,7 @@ Target: full granular coverage of Rules 1–35 incl. 6-A, 29-A, omitted 32 + the
 | R1 | Rules 1–7 incl. 6-A (10 comics, regen-batch-01-rules-1-7/) | ✅ DONE |
 | R2 | Rules 8–11 incl. full Rule 10 suspension + Rule 11 penalties (regen-batch-02-rules-8-12/) | ✅ DONE |
 | R3 | Rules 12–16 (9/10 done — R3.5 image pending, cap hit) | ✅ (R3.5 regenerates first next turn) |
-| R4 | Rule 14 remainder (fetch chunks 1+: sub-rules 12 onwards) + Rules 17–18 | NEXT |
-| R5 | Rules 23–29-A (appeals 45 days, implementation, revision 6 months, 29-A) | queued |
+| R4 | Rule 14 (11)–(23) completed + Rule 17 + Rule 18 + numbers (R3.5 also regenerated) | ✅ DONE |
+| R5 | Rules 19–22 (incl. time limits / 2024 revision) | NEXT — fetch Rule_19…Rule_22 |
 | R6 | Rules 30–35 + Schedule + omitted-32 note | queued |
 | R7 | catch-ups + key-numbers consolidation + finale → re-issue COVERAGE-CERTIFICATE + final sequential PDF | queued |
