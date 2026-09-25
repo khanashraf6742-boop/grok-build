@@ -24,14 +24,14 @@ and un-pushed commits do NOT survive turn ends. Therefore every turn:
 | Conduct regen R-C1 | C1.1–C1.10 regenerated to spec, audited, pushed | ✅ DONE |
 | Conduct regen R-C2 | C2.1–C2.8 regenerated to spec, audited, pushed | ✅ DONE |
 | Conduct regen R-C3 | C3.1–C3.10 regenerated to spec, audited, pushed | ✅ DONE |
-| Conduct regen R-C4 | Regenerate C4.1–C4.10 → then Conduct PDF v2 | queued after CCA (user priority) |
-| CCA regen R1–R8 | Rules 1–35 + Schedule per manifest (user priority: CCA first) | R1–R7 ✅ (69 comics — ALL RULES 1–35 + Schedule covered) — R8 finale + FINAL PDF NEXT |
+| Conduct regen R-C4 | Regenerate C4.1–C4.10 → then Conduct PDF v2 | NEXT — CCA complete |
+| CCA regen R1–R8 | Rules 1–35 + Schedule per manifest | ✅ COMPLETE — 70 comics, FINAL PDF + certificate issued 25.09.2026 |
 
 Each regen turn: generate ≤10 comics → optimize → audit → commit → **push**.
 
 ## PDF deliverables
 - `ccs-conduct-rules/CCS-Conduct-Rules-1964-Comics-v1.pdf` — interim (38/48 pages, compiled
   25.09.2026); PDFs are re-derivable from the PNGs in git and are NOT committed (gitignored).
-- `ccs-cca-rules/CCS-CCA-Rules-1965-Comics-v1.pdf` — CCA interim v6 (59/62 comics, 61 pp,
-  compiled 25.09.2026); FINAL PDF + coverage certificate after R7–R8.
+- `ccs-cca-rules/CCS-CCA-Rules-1965-Comics-FINAL.pdf` — COMPLETE (73 pp: cover, contents,
+  70 comics, certificate; compiled 25.09.2026; committed to git for durability).
 - v2 (complete 48) after R-C4.

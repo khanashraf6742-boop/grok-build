@@ -1,5 +1,7 @@
 # REGENERATION MANIFEST — CCS (CCA) Rules, 1965 (Series 1 rebuild)
 
+**SERIES COMPLETE — 70/70 comics regenerated; FINAL PDF + certificate issued 25.09.2026.**
+
 Target: full granular coverage of Rules 1–35 incl. 6-A, 29-A, omitted 32 + the Schedule
 (original run: 62 comics, certificate 25.09.2026 — comics lost, being rebuilt at 10/turn).
 
@@ -24,4 +26,4 @@ Target: full granular coverage of Rules 1–35 incl. 6-A, 29-A, omitted 32 + the
 | R5 | Rules 19–22 (special procedure; lent/borrowed officers; no-appeal bar) | ✅ DONE |
 | R6 | Rules 23–29-A (appealable orders; appellate authority; 45 days; form; consideration; implementation; revision; review) | ✅ DONE |
 | R7 | Rules 30–35 + Schedule + 2014-amendment note (Rule 32 omitted; VALIDATION note on Schedule entries) | ✅ DONE |
-| R8 | Series finale comic + FINAL PDF + coverage certificate | NEXT |
+| R8 | Series finale comic + FINAL PDF + coverage certificate | ✅ DONE — SERIES COMPLETE |

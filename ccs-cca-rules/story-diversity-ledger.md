@@ -83,6 +83,8 @@ combinations within this series or against the 48-entry Conduct series ledger
 | R7.9 | 2014 Second Amendment overview | Gazette unrolling | Gaurangi Pitre (liaison, F, 40s) + Wahengbam Ibocha (drafting officer, M, 30s) | Drafting room | Gazette 31.10.2014 + checklist | 4-panel + checklist + rule card | Advice-representation provisos in 19/27/29/29-A; Rule 32 omitted | "The rulebook keeps updating" |
 | R7.10 | Rules 30-35 + Schedule — tail map | Compendium closing | Charudatta Panshikar (librarian, M, 50s) + Nasima Khatoon (assistant, F, 20s) | Library | RULES 30-35 pinboard | 4-panel + pinboard + rule card | Closing pages consolidated | "The last pages, all in place" |
 
+| R8.1 | Series finale — Rules 1–35 complete journey | Training-hall launch | Hetal Mistry (director of training, F, 40s) + Bikram Toppo (new recruit, M, 20s) | Training hall | THE JOURNEY pinboard + bound RULES 1-35 volume | 4-panel + pinboard + rule card | Whole-series consolidation (classify-suspend-penalize-inquire-appeal) | "From appointment to appeal — the whole journey" |
+
 ## Ledger rules
 1. Never repeat scenario + character-combo + prop + format combinations (within this series or the Conduct series).
 2. Rotate gender, age, authority level, settings, props; authority is not stereotyped.
